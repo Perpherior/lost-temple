@@ -114,3 +114,8 @@ Now you are ready to go!!! Enjoy, cheers!! :octocat:
 ```
 http://localhost:3000/api/namespace/sample
 ```
+
+### Rename
+```
+rails g rename:into <new-repo-name>
+```
